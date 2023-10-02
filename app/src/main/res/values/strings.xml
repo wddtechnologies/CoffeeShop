@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoffeeShop</string>
+    <string name="open_nav"> Open Navigation Drawer</string>
+    <string name="close_nav"> Close Navigation Drawer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="give_us_a_call_today">Give us a Call Today!!</string>
+
+        <string name="app_logo">Coffee Shop </string>
+        <string-array name="options">
+            <item>Drinks</item>
+            <item>Food</item>
+            <item>Other</item>
+        </string-array>
+
+</resources>

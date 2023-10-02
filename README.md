@@ -4,3 +4,5 @@ Uploaded all project files
 
 This is a Android app made with Java. 
 
+Uploaded project in progress as Oct 2, 2023
+
